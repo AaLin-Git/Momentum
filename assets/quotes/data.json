@@ -1,0 +1,200 @@
+[
+  {
+    "text-en": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+    "author-en": "Martin Fowler",
+    "text-ua": "Більшість хороших програмістів виконують свою роботу не тому, що очікують оплати або визнання, а тому що отримують задоволення від програмування.",
+    "author-ua": "Лінус Торвальдс"
+  },
+  {
+    "text-en": "First, solve the problem. Then, write the code.",
+    "author-en": "John Johnson",
+    "text-ua": "Якщо тебе немає в Інтернеті, то ти не існуєш.",
+    "author-ua": "Білл Гейтс"
+  },
+  {
+    "text-en": "Experience is the name everyone gives to their mistakes.",
+    "author-en": "Oscar Wilde",
+    "text-ua": "Непрацююча програма зазвичай приносить менше шкоди, ніж працююча погано.",
+    "author-ua": "Енді Хант"
+  },
+  {
+    "text-en": "In order to be irreplaceable, one must always be different",
+    "author-en": "Coco Chanel",
+    "text-ua": "Хороший програміст — це той, хто дивиться у обида боки, переходячи дорогу з одностороннім рухом.",
+    "author-ua": "Даг Ліндер"
+  },
+  {
+    "text-en": "Java is to Javascript what car is to Carpet.",
+    "author-en": "Chris Heilmann",
+    "text-ua": "Є два способи створення дизайну програми. Один з них, це зробити його настільки простим, що в ньому, очевидно, не буде недоліків. Інший спосіб - зробити його настільки заплутаним, що в ньому не буде очевидних недоліків.",
+    "author-ua": "Чарлз Ентоні Річард Гоар"
+  },
+  {
+    "text-en": "Knowledge is power",
+    "author-en": "Francis Bacon",
+    "text-ua": "Труднощі роботи з програмистом полягає в тому, що ви не можете зрозуміти що він робить доти поки не стало надто пізно.",
+    "author-ua": "Сеймур Крей"
+  },
+  {
+    "text-en": "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.",
+    "author-en": "Dan Salomon",
+    "text-ua": "Вимірювати продуктивність програмування підрахунком рядків коду - це так само, як оцінювати будівництво літака по його вазі.",
+    "author-ua": "Білл Гейтс"
+  },
+  {
+    "text-en": "Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.",
+    "author-en": "Antoine de Saint - Exupery",
+    "text-ua": "Більшість програм на сьогоднішній день подібні єгипетським пірамідам з мільйона цеглинок один на одному і без конструктивної цілісності - вони просто побудовані грубою силою і тисячами рабів.",
+    "author-ua": "Алан Кей"
+  },
+  {
+    "text-en": "Code is like humor. When you have to explain it, it's bad.",
+    "author-en": "Cory House",
+    "text-ua": "Ніколи не довіряйте комп’ютеру, який ви не в змозі викинути у вікно.",
+    "author-ua": "Стів Возняк"
+  },
+  {
+    "text-en": "Fix the cause, not the symptom.",
+    "author-en": "Steve Maguire",
+    "text-ua": "Питання про те, чи вміють комп’ютери думати, схоже на питання — чи вміють плавати підводні човни.",
+    "author-ua": "Едсгер Дейкстр"
+  },
+  {
+    "text-en": "Optimism is an occupational hazard of programming: feedback is the treament. ",
+    "author-en": "Kent Beck",
+    "text-ua": "Комп'ютери швидше виявляють наявність безладу, ніж наводять лад.",
+    "author-ua": "Алан Перліс"
+  },
+  {
+    "text-en": "When to use iterative development? You should use iterative development only on projects that you want to succeed.",
+    "author-en": "Martin Fowler",
+    "text-ua": "Я не відчуваю страху перед комп'ютерами, я жахаюсь їх відсутності.",
+    "author-ua": "Айзек Азімов"
+  },
+  {
+    "text-en": "Before software can be reusable it first has to be usable.",
+    "author-en": "Ralph Johnson",
+    "text-ua": "Справжня небезпека не в тому, що комп'ютери почнуть мислити, як люди, а в тому, що люди почнуть мислити, як комп'ютери.",
+    "author-ua": "С. Харрис"
+  },
+  {
+    "text-en": "Make it work, make it right, make it fast.",
+    "author-en": "Kent Beck",
+    "text-ua": "В англійській мові з кожного слова можна зробити дієслово. От якби так було в наших мовах програмування. ",
+    "author-ua": "Алан Перліс"
+  },
+  {
+    "text-en": "Coding like poetry should be short and concise.",
+    "author-en": "Santosh Kalwar",
+    "text-ua": "Легше змінити специфікацію, щоб вона відповідала програмі, ніж навпаки.",
+    "author-ua": "Алан Перліс"
+  },
+  {
+    "text-en": "Clean code always looks like it was written by someone who cares.",
+    "author-en": "Robert C. Martin",
+    "text-ua": "У програмуванні, як і в усьому іншому, помилятися означає народжуватися заново.",
+    "author-ua": "Алан Перліс"
+  },
+  {
+    "text-en": "Of course, bad code can be cleaned up. But it’s very expensive.",
+    "author-en": "Robert C. Martin",
+    "text-ua": "Коли ми пишемо програми, які «вчаться», то виявляється, що ми вчимося, а не вони.",
+    "author-ua": "Алан Перліс"
+  },
+  {
+    "text-en": "Programming is the art of algorithm design and the craft of debugging errant code. ",
+    "author-en": "Ellen Ullman",
+    "text-ua": "У програмуванні перетворення очевидного в корисне є чинним визначенням слова «розчарування».",
+    "author-ua": "Алан Перліс"
+  },
+  {
+    "text-en": "It’s not a bug; it’s an undocumented feature.",
+    "author-en": "Anonymous",
+    "text-ua": "Є два види мов програмування. На одні всі нарікають, а інших ніхто не використовує",
+    "author-ua": "Б'ярн Страуструп"
+  },
+  {
+    "text-en": "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.",
+    "author-en": "Rick Cook",
+    "text-ua": "Програма, яку не протестували, не працює.",
+    "author-ua": "Б'ярн Страуструп"
+  },
+  {
+    "text-en": "Programming is the art of telling another human being what one wants the computer to do.",
+    "author-en": "Donald Ervin Knuth",
+    "text-ua": "«Як тестувати?» — це запитання, на яке немає загальної відповіді. Однак на запитання «коли тестувати?» є загальна відповідь: якомога раніше і якомога частіше.",
+    "author-ua": "Б'ярн Страуструп"
+  },
+  {
+    "text-en": "Confusion is part of programming.",
+    "author-en": "Felienne Hermans",
+    "text-ua": "Машини повинні працювати. Люди повинні думати.",
+    "author-ua": "Принцип IBM"
+  },
+  {
+    "text-en": "No matter which field of work you want to go in, it is of great importance to learn at least one programming language.",
+    "author-en": "Ram Ray",
+    "text-ua": "Людина додає кібернетичним машинам здатність творити і створює цим собі могутнього помічника",
+    "author-ua": "Ноберт Вінер"
+  },
+  {
+    "text-en": "Software is like sex: it's better when it's free.",
+    "author-en": "Linus Torvalds",
+    "text-ua": "Комп'ютери швидше виявляють наявність безладу, ніж наводять лад.",
+    "author-ua": "Алан Перліс"
+  },
+  {
+    "text-en": "If we want users to like our software, we should design it to behave like a likable person.",
+    "author-en": "Alan Cooper",
+    "text-ua": "Людині властиво помилятися, а ще більше- звалювати провину за свої помилки на комп'ютер.",
+    "author-ua": "Роберт Орбен"
+  },
+  {
+    "text-en": "Quality is a product of a conflict between programmers and testers. ",
+    "author-en": "Yegor Bugayenk",
+    "text-ua": "Людина в XXI столітті, яка не буде вміти користуватися ЕОМ, буде подібна людині ХХ століття, яка не вміла ні читати, ні писати.",
+    "author-ua": "Академік В. М. Глушков"
+  },
+  {
+    "text-en": "Everybody should learn to program a computer because it teaches you how to think.",
+    "author-en": "Steve Jobs",
+    "text-ua": "Найкращий спосіб у чомусь розібратися до кінця – це спробувати навчити цьому комп’ютер.",
+    "author-ua": "Дональд Кнут"
+  },
+  {
+    "text-en": "Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.",
+    "author-en": "Linus Torvalds",
+    "text-ua": "Три найдорожчих помилки всіх часів були викликані зміною одного символу в раніше коректних програмах. ",
+    "author-ua": "Стів МакКоннелл"
+  },
+  {
+    "text-en": "Programmer: A machine that turns coffee into code.",
+    "author-en": "Anonymous",
+    "text-ua": "Пишіть програми в першу чергу для людей, і тільки потім для машин.",
+    "author-ua": "Стів МакКоннелл"
+  },
+  {
+    "text-en": "When I wrote this code, only God and I understood what I did. Now only God knows.",
+    "author-en": "Anonymous",
+    "text-ua": "Найдешевші, швидкі і надійні компоненти обчислювальної системи — ті, яких в ній немає.",
+    "author-ua": "Гордон Белл"
+  },
+  {
+    "text-en": "There is always one more bug to fix.",
+    "author-en": "Ellen Ullman",
+    "text-ua": "Труднощі роботи з програмістом полягає в тому, що ви не можете зрозуміти що він робить доти поки не стало надто пізно.",
+    "author-ua": "Сеймур Крей"
+  },
+  {
+    "text-en": "If debugging is the process of removing bugs, then programming must be the process of putting them in.",
+    "author-en": "Sam Redwine",
+    "text-ua": "Найновіший комп’ютер – це комп’ютер, що або вчора застарів, або з’явиться завтра.",
+    "author-ua": "Сідні Бреннер"
+  },
+  {
+    "text-en": "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.",
+    "author-en": "Dan Salomon",
+    "text-ua": "Скоро залишаться лише дві групи працівників: ті, хто контролює комп’ютери, і ті, кого контролюють комп’ютери. Постарайтеся потрапити в першу.",
+    "author-ua": "Дейв Баррі"
+  }
+]
