@@ -151,11 +151,11 @@ async function getWeather() {
     humidity.textContent = `${langArr["humidity"][hash]}: ${data.main.humidity}%`;
   } catch (error) {
     weatherError.textContent = "Can't find the city";
-    weatherIcon.classList.remove(`owf-${icon}`);
     temperature.textContent = "";
     weatherDescription.textContent = "";
     wind.textContent = "";
     humidity.textContent = "";
+    weatherIcon.classList.remove(`owf-${icon}`);
   }
 }
 getWeather();
